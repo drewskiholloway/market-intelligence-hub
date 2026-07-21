@@ -1,0 +1,49 @@
+name: Refresh market data
+
+on:
+  schedule:
+    # Daily at 13:00 UTC (~9am ET). All three scripts are idempotent --
+    # they no-op unless Census or Redfin has actually published something
+    # new, so running daily is cheap and just means we never miss a
+    # release by more than a day.
+    - cron: '0 13 * * *'
+  workflow_dispatch: {}   # lets us trigger a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh Census permits data (state + metro)
+        run: python scripts/refresh_permits_data.py
+
+      - name: Refresh Census national starts/permits data
+        run: python scripts/refresh_national_data.py
+
+      - name: Refresh Redfin migration data (state + metro)
+        run: python scripts/refresh_migration_data.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "market-data-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Automated data refresh $(date -u +'%Y-%m-%d')"
+            git push
+          fi

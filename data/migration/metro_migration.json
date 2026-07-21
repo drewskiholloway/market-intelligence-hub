@@ -1,0 +1,712 @@
+{
+  "period": "2026-01-01",
+  "fetchedAt": "2026-07-21T13:30:50",
+  "source": "Redfin U.S. Migration Patterns (quarterly, rolling 3-month window)",
+  "sourceUrls": {
+    "state": "https://redfin-public-data.s3.us-west-2.amazonaws.com/redfin_data_center/migration_traffic/aggregated/all_states.csv",
+    "metro": "https://redfin-public-data.s3.us-west-2.amazonaws.com/redfin_data_center/migration_traffic/aggregated/all_metros.csv"
+  },
+  "unit": "searches (inflow/outflow), rolling 3-month",
+  "data": {
+    "Albany, NY": {
+      "inflow": 1561.667863234,
+      "outflow": 1049.17621409,
+      "netFlow": 512.491649145,
+      "pctSearchingIn": 45.52,
+      "pctSearchingOut": 35.96
+    },
+    "Albuquerque, NM": {
+      "inflow": 1982.35729013,
+      "outflow": 1130.875248772,
+      "netFlow": 851.482041358,
+      "pctSearchingIn": 45.89,
+      "pctSearchingOut": 32.61
+    },
+    "Allentown, PA": {
+      "inflow": 1457.485186646,
+      "outflow": 689.102900792,
+      "netFlow": 768.382285854,
+      "pctSearchingIn": 58.13,
+      "pctSearchingOut": 39.63
+    },
+    "Atlanta, GA": {
+      "inflow": 11987.806806057,
+      "outflow": 12538.659809572,
+      "netFlow": -550.853003515,
+      "pctSearchingIn": 15.21,
+      "pctSearchingOut": 15.8
+    },
+    "Augusta, GA": {
+      "inflow": 989.880656413,
+      "outflow": 241.658018633,
+      "netFlow": 748.222637781,
+      "pctSearchingIn": 78.86,
+      "pctSearchingOut": 47.66
+    },
+    "Austin, TX": {
+      "inflow": 7438.436402722,
+      "outflow": 7701.488067896,
+      "netFlow": -263.051665174,
+      "pctSearchingIn": 25.12,
+      "pctSearchingOut": 25.78
+    },
+    "Bakersfield, CA": {
+      "inflow": 2768.989179714,
+      "outflow": 1181.732401814,
+      "netFlow": 1587.256777899,
+      "pctSearchingIn": 71.47,
+      "pctSearchingOut": 51.67
+    },
+    "Baton Rouge, LA": {
+      "inflow": 990.134022354,
+      "outflow": 470.634139903,
+      "netFlow": 519.499882451,
+      "pctSearchingIn": 41.13,
+      "pctSearchingOut": 24.93
+    },
+    "Birmingham, AL": {
+      "inflow": 1433.434524555,
+      "outflow": 1538.410774259,
+      "netFlow": -104.976249705,
+      "pctSearchingIn": 25.36,
+      "pctSearchingOut": 26.72
+    },
+    "Boise City, ID": {
+      "inflow": 4249.945251401,
+      "outflow": 1091.116783075,
+      "netFlow": 3158.828468326,
+      "pctSearchingIn": 62.92,
+      "pctSearchingOut": 30.34
+    },
+    "Boston, MA": {
+      "inflow": 9656.254657959,
+      "outflow": 18477.812494652,
+      "netFlow": -8821.557836693,
+      "pctSearchingIn": 8.17,
+      "pctSearchingOut": 14.55
+    },
+    "Buffalo, NY": {
+      "inflow": 994.784157302,
+      "outflow": 1284.381597909,
+      "netFlow": -289.597440607,
+      "pctSearchingIn": 30.24,
+      "pctSearchingOut": 35.89
+    },
+    "Cape Coral, FL": {
+      "inflow": 8767.791981162,
+      "outflow": 2286.058787604,
+      "netFlow": 6481.733193558,
+      "pctSearchingIn": 71.69,
+      "pctSearchingOut": 39.77
+    },
+    "Charleston, SC": {
+      "inflow": 3115.526425544,
+      "outflow": 1275.804762922,
+      "netFlow": 1839.721662621,
+      "pctSearchingIn": 57.05,
+      "pctSearchingOut": 35.23
+    },
+    "Charleston, WV": {
+      "inflow": 339.459198292,
+      "outflow": 407.888117423,
+      "netFlow": -68.428919132,
+      "pctSearchingIn": 68.64,
+      "pctSearchingOut": 72.45
+    },
+    "Charlotte, NC": {
+      "inflow": 5565.139348473,
+      "outflow": 7251.432143164,
+      "netFlow": -1686.292794691,
+      "pctSearchingIn": 27.45,
+      "pctSearchingOut": 33.02
+    },
+    "Chattanooga, TN": {
+      "inflow": 2020.267200462,
+      "outflow": 632.022114554,
+      "netFlow": 1388.245085908,
+      "pctSearchingIn": 60.72,
+      "pctSearchingOut": 32.6
+    },
+    "Chicago, IL": {
+      "inflow": 14741.933430602,
+      "outflow": 34320.935453194,
+      "netFlow": -19579.002022591,
+      "pctSearchingIn": 5.11,
+      "pctSearchingOut": 11.15
+    },
+    "Cincinnati, OH": {
+      "inflow": 2309.377409077,
+      "outflow": 1914.926982174,
+      "netFlow": 394.450426903,
+      "pctSearchingIn": 25.7,
+      "pctSearchingOut": 22.29
+    },
+    "Cleveland, OH": {
+      "inflow": 2825.262032311,
+      "outflow": 3283.102650917,
+      "netFlow": -457.840618606,
+      "pctSearchingIn": 19.86,
+      "pctSearchingOut": 22.36
+    },
+    "Colorado Springs, CO": {
+      "inflow": 2777.218770075,
+      "outflow": 1296.051596029,
+      "netFlow": 1481.167174046,
+      "pctSearchingIn": 59.48,
+      "pctSearchingOut": 40.65
+    },
+    "Columbia, SC": {
+      "inflow": 1955.61733436,
+      "outflow": 668.940287543,
+      "netFlow": 1286.677046817,
+      "pctSearchingIn": 65.7,
+      "pctSearchingOut": 39.58
+    },
+    "Columbus, OH": {
+      "inflow": 2151.348885288,
+      "outflow": 3083.752347038,
+      "netFlow": -932.40346175,
+      "pctSearchingIn": 20.12,
+      "pctSearchingOut": 26.53
+    },
+    "Dallas, TX": {
+      "inflow": 14767.569819452,
+      "outflow": 13845.599129593,
+      "netFlow": 921.970689858,
+      "pctSearchingIn": 18.2,
+      "pctSearchingOut": 17.26
+    },
+    "Dayton, OH": {
+      "inflow": 1127.68959673,
+      "outflow": 629.812565245,
+      "netFlow": 497.877031485,
+      "pctSearchingIn": 46.87,
+      "pctSearchingOut": 33.01
+    },
+    "Denver, CO": {
+      "inflow": 8771.612256032,
+      "outflow": 12463.40923528,
+      "netFlow": -3691.796979248,
+      "pctSearchingIn": 16.82,
+      "pctSearchingOut": 22.31
+    },
+    "Des Moines, IA": {
+      "inflow": 781.565987993,
+      "outflow": 544.811269725,
+      "netFlow": 236.754718268,
+      "pctSearchingIn": 48.01,
+      "pctSearchingOut": 39.17
+    },
+    "Detroit, MI": {
+      "inflow": 4337.51496394,
+      "outflow": 5863.975324263,
+      "netFlow": -1526.460360322,
+      "pctSearchingIn": 15.4,
+      "pctSearchingOut": 19.75
+    },
+    "El Paso, TX": {
+      "inflow": 1417.572260583,
+      "outflow": 666.676704932,
+      "netFlow": 750.89555565,
+      "pctSearchingIn": 44.98,
+      "pctSearchingOut": 27.77
+    },
+    "Fayetteville, AR": {
+      "inflow": 970.514732063,
+      "outflow": 325.862089092,
+      "netFlow": 644.652642971,
+      "pctSearchingIn": 60.9,
+      "pctSearchingOut": 34.34
+    },
+    "Fayetteville, NC": {
+      "inflow": 1468.56483408,
+      "outflow": 643.865943726,
+      "netFlow": 824.698890354,
+      "pctSearchingIn": 69.41,
+      "pctSearchingOut": 49.87
+    },
+    "Fort Wayne, IN": {
+      "inflow": 416.498585678,
+      "outflow": 363.995117007,
+      "netFlow": 52.50346867,
+      "pctSearchingIn": 57.41,
+      "pctSearchingOut": 54.09
+    },
+    "Fresno, CA": {
+      "inflow": 1926.945707343,
+      "outflow": 1214.100550196,
+      "netFlow": 712.845157147,
+      "pctSearchingIn": 45.6,
+      "pctSearchingOut": 34.56
+    },
+    "Grand Rapids, MI": {
+      "inflow": 1567.941797903,
+      "outflow": 971.344095977,
+      "netFlow": 596.597701926,
+      "pctSearchingIn": 41.83,
+      "pctSearchingOut": 30.82
+    },
+    "Greensboro, NC": {
+      "inflow": 2949.09840297,
+      "outflow": 1228.179223641,
+      "netFlow": 1720.919179329,
+      "pctSearchingIn": 45.98,
+      "pctSearchingOut": 26.17
+    },
+    "Greenville, SC": {
+      "inflow": 3276.965035617,
+      "outflow": 938.424976775,
+      "netFlow": 2338.540058842,
+      "pctSearchingIn": 56.18,
+      "pctSearchingOut": 26.86
+    },
+    "Harrisburg, PA": {
+      "inflow": 2035.741331297,
+      "outflow": 1054.620007999,
+      "netFlow": 981.121323298,
+      "pctSearchingIn": 57.42,
+      "pctSearchingOut": 41.13
+    },
+    "Hartford, CT": {
+      "inflow": 1803.734497296,
+      "outflow": 1133.052406749,
+      "netFlow": 670.682090547,
+      "pctSearchingIn": 49.61,
+      "pctSearchingOut": 38.21
+    },
+    "Honolulu, HI": {
+      "inflow": 4318.805082494,
+      "outflow": 3818.29770818,
+      "netFlow": 500.507374314,
+      "pctSearchingIn": 29.26,
+      "pctSearchingOut": 26.77
+    },
+    "Houston, TX": {
+      "inflow": 10178.836875165,
+      "outflow": 9140.295604483,
+      "netFlow": 1038.541270682,
+      "pctSearchingIn": 22.42,
+      "pctSearchingOut": 20.61
+    },
+    "Huntsville, AL": {
+      "inflow": 1375.292819157,
+      "outflow": 502.766457277,
+      "netFlow": 872.52636188,
+      "pctSearchingIn": 60.76,
+      "pctSearchingOut": 36.14
+    },
+    "Indianapolis, IN": {
+      "inflow": 3064.491095166,
+      "outflow": 3132.200648829,
+      "netFlow": -67.709553663,
+      "pctSearchingIn": 20.12,
+      "pctSearchingOut": 20.47
+    },
+    "Jackson, MS": {
+      "inflow": 489.712009925,
+      "outflow": 361.203748906,
+      "netFlow": 128.508261019,
+      "pctSearchingIn": 48.61,
+      "pctSearchingOut": 41.09
+    },
+    "Jacksonville, FL": {
+      "inflow": 5688.117669132,
+      "outflow": 3016.110449861,
+      "netFlow": 2672.007219271,
+      "pctSearchingIn": 41.13,
+      "pctSearchingOut": 27.03
+    },
+    "Kansas City, MO": {
+      "inflow": 2309.471695962,
+      "outflow": 2786.58684056,
+      "netFlow": -477.115144598,
+      "pctSearchingIn": 19.81,
+      "pctSearchingOut": 22.96
+    },
+    "Knoxville, TN": {
+      "inflow": 3635.498297076,
+      "outflow": 833.546076904,
+      "netFlow": 2801.952220171,
+      "pctSearchingIn": 61.25,
+      "pctSearchingOut": 26.6
+    },
+    "Lafayette, LA": {
+      "inflow": 416.926540694,
+      "outflow": 374.697697539,
+      "netFlow": 42.228843155,
+      "pctSearchingIn": 35.6,
+      "pctSearchingOut": 33.19
+    },
+    "Lancaster, PA": {
+      "inflow": 648.651353593,
+      "outflow": 355.728117738,
+      "netFlow": 292.923235855,
+      "pctSearchingIn": 58.39,
+      "pctSearchingOut": 43.49
+    },
+    "Las Vegas, NV": {
+      "inflow": 12899.767985345,
+      "outflow": 7260.754987313,
+      "netFlow": 5639.012998031,
+      "pctSearchingIn": 33.24,
+      "pctSearchingOut": 21.89
+    },
+    "Lexington, KY": {
+      "inflow": 749.128086121,
+      "outflow": 575.417040227,
+      "netFlow": 173.711045894,
+      "pctSearchingIn": 43.56,
+      "pctSearchingOut": 37.22
+    },
+    "Little Rock, AR": {
+      "inflow": 1070.975192183,
+      "outflow": 580.005814517,
+      "netFlow": 490.969377666,
+      "pctSearchingIn": 43.82,
+      "pctSearchingOut": 29.7
+    },
+    "Los Angeles, CA": {
+      "inflow": 35132.540267799,
+      "outflow": 59103.071725822,
+      "netFlow": -23970.531458023,
+      "pctSearchingIn": 8.61,
+      "pctSearchingOut": 13.68
+    },
+    "Louisville, KY": {
+      "inflow": 1268.73972196,
+      "outflow": 1613.814836317,
+      "netFlow": -345.075114357,
+      "pctSearchingIn": 20.17,
+      "pctSearchingOut": 24.33
+    },
+    "Madison, WI": {
+      "inflow": 1173.212183441,
+      "outflow": 965.637752449,
+      "netFlow": 207.574430992,
+      "pctSearchingIn": 34.89,
+      "pctSearchingOut": 30.61
+    },
+    "McAllen, TX": {
+      "inflow": 537.473429263,
+      "outflow": 309.383803358,
+      "netFlow": 228.089625906,
+      "pctSearchingIn": 52.59,
+      "pctSearchingOut": 38.97
+    },
+    "Memphis, TN": {
+      "inflow": 1532.883662499,
+      "outflow": 1209.01591769,
+      "netFlow": 323.867744809,
+      "pctSearchingIn": 26.07,
+      "pctSearchingOut": 21.76
+    },
+    "Miami, FL": {
+      "inflow": 19754.070691229,
+      "outflow": 13178.362800366,
+      "netFlow": 6575.707890864,
+      "pctSearchingIn": 28.5,
+      "pctSearchingOut": 21.0
+    },
+    "Milwaukee, WI": {
+      "inflow": 3275.451221038,
+      "outflow": 2331.591516949,
+      "netFlow": 943.859704089,
+      "pctSearchingIn": 29.85,
+      "pctSearchingOut": 23.25
+    },
+    "Minneapolis, MN": {
+      "inflow": 3543.511835655,
+      "outflow": 5404.563350873,
+      "netFlow": -1861.051515217,
+      "pctSearchingIn": 15.27,
+      "pctSearchingOut": 21.57
+    },
+    "Mobile, AL": {
+      "inflow": 1249.23927696,
+      "outflow": 1508.843521673,
+      "netFlow": -259.604244713,
+      "pctSearchingIn": 61.71,
+      "pctSearchingOut": 66.06
+    },
+    "Myrtle Beach, SC": {
+      "inflow": 4787.182445187,
+      "outflow": 974.281973235,
+      "netFlow": 3812.900471952,
+      "pctSearchingIn": 76.01,
+      "pctSearchingOut": 39.21
+    },
+    "Nashville, TN": {
+      "inflow": 6278.72792991,
+      "outflow": 4818.639288072,
+      "netFlow": 1460.088641838,
+      "pctSearchingIn": 29.53,
+      "pctSearchingOut": 24.33
+    },
+    "New Orleans, LA": {
+      "inflow": 3486.3043554,
+      "outflow": 1617.15486027,
+      "netFlow": 1869.14949513,
+      "pctSearchingIn": 34.08,
+      "pctSearchingOut": 19.34
+    },
+    "New York, NY": {
+      "inflow": 14068.955057945,
+      "outflow": 42420.26225745,
+      "netFlow": -28351.307199505,
+      "pctSearchingIn": 9.21,
+      "pctSearchingOut": 23.41
+    },
+    "North Port, FL": {
+      "inflow": 8556.612842444,
+      "outflow": 1784.317913967,
+      "netFlow": 6772.294928476,
+      "pctSearchingIn": 70.48,
+      "pctSearchingOut": 33.23
+    },
+    "Oklahoma City, OK": {
+      "inflow": 1800.399190051,
+      "outflow": 1788.895697298,
+      "netFlow": 11.503492753,
+      "pctSearchingIn": 27.3,
+      "pctSearchingOut": 27.17
+    },
+    "Omaha, NE": {
+      "inflow": 847.399706553,
+      "outflow": 719.561585564,
+      "netFlow": 127.838120989,
+      "pctSearchingIn": 32.53,
+      "pctSearchingOut": 29.05
+    },
+    "Orlando, FL": {
+      "inflow": 14562.173892471,
+      "outflow": 7648.099270054,
+      "netFlow": 6914.074622417,
+      "pctSearchingIn": 41.08,
+      "pctSearchingOut": 26.8
+    },
+    "Palm Bay, FL": {
+      "inflow": 2577.56158561,
+      "outflow": 732.817462748,
+      "netFlow": 1844.744122862,
+      "pctSearchingIn": 72.31,
+      "pctSearchingOut": 42.61
+    },
+    "Pensacola, FL": {
+      "inflow": 1715.343751631,
+      "outflow": 353.019656589,
+      "netFlow": 1362.324095042,
+      "pctSearchingIn": 75.03,
+      "pctSearchingOut": 38.21
+    },
+    "Philadelphia, PA": {
+      "inflow": 10693.016017681,
+      "outflow": 10509.630029757,
+      "netFlow": 183.385987924,
+      "pctSearchingIn": 15.75,
+      "pctSearchingOut": 15.52
+    },
+    "Phoenix, AZ": {
+      "inflow": 19545.659184533,
+      "outflow": 15023.826047568,
+      "netFlow": 4521.833136965,
+      "pctSearchingIn": 25.99,
+      "pctSearchingOut": 21.25
+    },
+    "Pittsburgh, PA": {
+      "inflow": 2867.135795509,
+      "outflow": 2518.145537564,
+      "netFlow": 348.990257945,
+      "pctSearchingIn": 20.88,
+      "pctSearchingOut": 18.82
+    },
+    "Portland, ME": {
+      "inflow": 2035.282328455,
+      "outflow": 728.595029348,
+      "netFlow": 1306.687299107,
+      "pctSearchingIn": 61.0,
+      "pctSearchingOut": 35.89
+    },
+    "Portland, OR": {
+      "inflow": 12428.178898807,
+      "outflow": 12920.774081471,
+      "netFlow": -492.595182664,
+      "pctSearchingIn": 15.91,
+      "pctSearchingOut": 16.44
+    },
+    "Raleigh, NC": {
+      "inflow": 5441.246255563,
+      "outflow": 4015.240894049,
+      "netFlow": 1426.005361514,
+      "pctSearchingIn": 34.12,
+      "pctSearchingOut": 27.65
+    },
+    "Reno, NV": {
+      "inflow": 2855.468428619,
+      "outflow": 1249.570591401,
+      "netFlow": 1605.897837218,
+      "pctSearchingIn": 62.39,
+      "pctSearchingOut": 42.06
+    },
+    "Richmond, VA": {
+      "inflow": 2492.477990622,
+      "outflow": 1423.289526366,
+      "netFlow": 1069.188464255,
+      "pctSearchingIn": 39.11,
+      "pctSearchingOut": 26.84
+    },
+    "Rochester, NY": {
+      "inflow": 2011.645174147,
+      "outflow": 535.094936649,
+      "netFlow": 1476.550237498,
+      "pctSearchingIn": 68.97,
+      "pctSearchingOut": 37.16
+    },
+    "Sacramento, CA": {
+      "inflow": 11439.725254069,
+      "outflow": 6997.632204074,
+      "netFlow": 4442.093049995,
+      "pctSearchingIn": 35.92,
+      "pctSearchingOut": 25.53
+    },
+    "Salt Lake City, UT": {
+      "inflow": 3464.428146801,
+      "outflow": 3805.652992026,
+      "netFlow": -341.224845225,
+      "pctSearchingIn": 24.63,
+      "pctSearchingOut": 26.42
+    },
+    "San Antonio, TX": {
+      "inflow": 6330.252277426,
+      "outflow": 2793.276068995,
+      "netFlow": 3536.976208431,
+      "pctSearchingIn": 43.33,
+      "pctSearchingOut": 25.22
+    },
+    "San Diego, CA": {
+      "inflow": 15933.439758592,
+      "outflow": 15154.586690509,
+      "netFlow": 778.853068084,
+      "pctSearchingIn": 20.25,
+      "pctSearchingOut": 19.45
+    },
+    "San Jose, CA": {
+      "inflow": 17029.851014579,
+      "outflow": 40512.954681332,
+      "netFlow": -23483.103666754,
+      "pctSearchingIn": 7.34,
+      "pctSearchingOut": 15.85
+    },
+    "Savannah, GA": {
+      "inflow": 1454.607048073,
+      "outflow": 723.015763567,
+      "netFlow": 731.591284507,
+      "pctSearchingIn": 65.27,
+      "pctSearchingOut": 48.3
+    },
+    "Scranton, PA": {
+      "inflow": 705.3524266,
+      "outflow": 389.404624479,
+      "netFlow": 315.947802121,
+      "pctSearchingIn": 63.89,
+      "pctSearchingOut": 49.42
+    },
+    "Seattle, WA": {
+      "inflow": 18481.506327517,
+      "outflow": 44830.425986851,
+      "netFlow": -26348.919659334,
+      "pctSearchingIn": 7.64,
+      "pctSearchingOut": 16.71
+    },
+    "South Bend, IN": {
+      "inflow": 1150.875948239,
+      "outflow": 453.058684535,
+      "netFlow": 697.817263704,
+      "pctSearchingIn": 72.16,
+      "pctSearchingOut": 50.51
+    },
+    "Spokane, WA": {
+      "inflow": 4242.570952325,
+      "outflow": 895.092656041,
+      "netFlow": 3347.478296284,
+      "pctSearchingIn": 67.19,
+      "pctSearchingOut": 30.17
+    },
+    "Springfield, MA": {
+      "inflow": 701.789012374,
+      "outflow": 581.240684096,
+      "netFlow": 120.548328278,
+      "pctSearchingIn": 56.25,
+      "pctSearchingOut": 51.57
+    },
+    "St. Louis, MO": {
+      "inflow": 2733.814938972,
+      "outflow": 2430.307850116,
+      "netFlow": 303.507088855,
+      "pctSearchingIn": 20.71,
+      "pctSearchingOut": 18.85
+    },
+    "Syracuse, NY": {
+      "inflow": 467.110023329,
+      "outflow": 843.135991814,
+      "netFlow": -376.025968485,
+      "pctSearchingIn": 37.88,
+      "pctSearchingOut": 52.4
+    },
+    "Tampa, FL": {
+      "inflow": 10610.127561703,
+      "outflow": 5791.053007823,
+      "netFlow": 4819.07455388,
+      "pctSearchingIn": 38.7,
+      "pctSearchingOut": 25.63
+    },
+    "Toledo, OH": {
+      "inflow": 696.682054019,
+      "outflow": 354.652671904,
+      "netFlow": 342.029382115,
+      "pctSearchingIn": 58.94,
+      "pctSearchingOut": 42.22
+    },
+    "Tucson, AZ": {
+      "inflow": 5407.337742863,
+      "outflow": 1166.479375738,
+      "netFlow": 4240.858367125,
+      "pctSearchingIn": 67.47,
+      "pctSearchingOut": 30.91
+    },
+    "Tulsa, OK": {
+      "inflow": 1401.251861897,
+      "outflow": 581.478245361,
+      "netFlow": 819.773616536,
+      "pctSearchingIn": 51.2,
+      "pctSearchingOut": 30.33
+    },
+    "Virginia Beach, VA": {
+      "inflow": 4370.077927617,
+      "outflow": 3269.456899825,
+      "netFlow": 1100.621027793,
+      "pctSearchingIn": 34.65,
+      "pctSearchingOut": 28.4
+    },
+    "Washington, DC": {
+      "inflow": 16849.817354886,
+      "outflow": 38091.085700106,
+      "netFlow": -21241.26834522,
+      "pctSearchingIn": 7.22,
+      "pctSearchingOut": 14.96
+    },
+    "Wichita, KS": {
+      "inflow": 589.534383784,
+      "outflow": 327.347506585,
+      "netFlow": 262.186877199,
+      "pctSearchingIn": 56.19,
+      "pctSearchingOut": 41.59
+    },
+    "Youngstown, OH": {
+      "inflow": 579.279683855,
+      "outflow": 326.416705031,
+      "netFlow": 252.862978824,
+      "pctSearchingIn": 59.3,
+      "pctSearchingOut": 45.09
+    }
+  }
+}
