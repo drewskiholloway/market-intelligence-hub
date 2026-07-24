@@ -1,8 +1,9 @@
 {
-  "lastChecked": "2026-07-23T17:58:29",
-  "lastNewDataFetched": "2026-07-21T12:53:54",
+  "lastChecked": "2026-07-24T18:05:08",
+  "lastNewDataFetched": "2026-07-24T18:05:09",
   "periods": [
-    "2026-05"
+    "2026-05",
+    "2026-06"
   ],
-  "latestPeriod": "2026-05"
+  "latestPeriod": "2026-06"
 }
