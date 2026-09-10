@@ -1,7 +1,7 @@
 {
   "source": "Census Bureau New Residential Construction (NRC)",
   "sourceUrl": "https://www.census.gov/construction/nrc/xls/newresconst.xlsx",
-  "fetchedAt": "2026-09-09T17:05:32",
+  "fetchedAt": "2026-09-10T16:56:57",
   "unit": "SAAR (thousands of units), United States total",
   "data": {
     "starts": {
