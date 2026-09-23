@@ -1,6 +1,6 @@
 {
-  "period": "2026-01-01",
-  "fetchedAt": "2026-07-21T13:30:50",
+  "period": "2026-04-01",
+  "fetchedAt": "2026-09-23T17:47:08",
   "source": "Redfin U.S. Migration Patterns (quarterly, rolling 3-month window)",
   "sourceUrls": {
     "state": "https://redfin-public-data.s3.us-west-2.amazonaws.com/redfin_data_center/migration_traffic/aggregated/all_states.csv",
@@ -9,361 +9,361 @@
   "unit": "searches (inflow/outflow), rolling 3-month",
   "data": {
     "Alabama": {
-      "inflow": 6678.45547323,
-      "outflow": 4630.559423484,
-      "netFlow": 2047.896049747,
-      "pctSearchingIn": 35.76,
-      "pctSearchingOut": 27.84
+      "inflow": 6537.926237727,
+      "outflow": 4477.240849517,
+      "netFlow": 2060.68538821,
+      "pctSearchingIn": 36.28,
+      "pctSearchingOut": 28.05
     },
     "Alaska": {
-      "inflow": 888.737050268,
-      "outflow": 1366.071470649,
-      "netFlow": -477.334420381,
-      "pctSearchingIn": 53.23,
-      "pctSearchingOut": 63.63
+      "inflow": 932.598121271,
+      "outflow": 1465.348880219,
+      "netFlow": -532.750758948,
+      "pctSearchingIn": 49.05,
+      "pctSearchingOut": 60.2
     },
     "Arizona": {
-      "inflow": 34161.587246888,
-      "outflow": 16565.425412584,
-      "netFlow": 17596.161834303,
-      "pctSearchingIn": 31.6,
-      "pctSearchingOut": 18.3
+      "inflow": 29294.262204501,
+      "outflow": 17365.601896116,
+      "netFlow": 11928.660308386,
+      "pctSearchingIn": 32.49,
+      "pctSearchingOut": 22.2
     },
     "Arkansas": {
-      "inflow": 4199.611958191,
-      "outflow": 1688.374758027,
-      "netFlow": 2511.237200165,
-      "pctSearchingIn": 52.67,
-      "pctSearchingOut": 30.91
+      "inflow": 4271.372696582,
+      "outflow": 1670.939589778,
+      "netFlow": 2600.433106803,
+      "pctSearchingIn": 53.05,
+      "pctSearchingOut": 30.65
     },
     "California": {
-      "inflow": 52217.90725132,
-      "outflow": 106959.526526404,
-      "netFlow": -54741.619275084,
-      "pctSearchingIn": 5.01,
-      "pctSearchingOut": 9.74
+      "inflow": 49985.557851994,
+      "outflow": 106533.345469462,
+      "netFlow": -56547.787617468,
+      "pctSearchingIn": 4.83,
+      "pctSearchingOut": 9.77
     },
     "Colorado": {
-      "inflow": 15834.229446866,
-      "outflow": 16300.478171007,
-      "netFlow": -466.248724141,
-      "pctSearchingIn": 18.8,
-      "pctSearchingOut": 19.25
+      "inflow": 13461.066672508,
+      "outflow": 16353.646932865,
+      "netFlow": -2892.580260358,
+      "pctSearchingIn": 16.8,
+      "pctSearchingOut": 19.7
     },
     "Columbia": {
-      "inflow": 5350.747146961,
-      "outflow": 7836.450724746,
-      "netFlow": -2485.703577785,
-      "pctSearchingIn": 48.94,
-      "pctSearchingOut": 58.4
+      "inflow": 5000.869699858,
+      "outflow": 8196.641202033,
+      "netFlow": -3195.771502175,
+      "pctSearchingIn": 48.91,
+      "pctSearchingOut": 61.08
     },
     "Connecticut": {
-      "inflow": 5297.414922671,
-      "outflow": 6297.383888484,
-      "netFlow": -999.968965813,
-      "pctSearchingIn": 25.94,
-      "pctSearchingOut": 29.39
+      "inflow": 5941.170610696,
+      "outflow": 6147.631366255,
+      "netFlow": -206.460755559,
+      "pctSearchingIn": 25.58,
+      "pctSearchingOut": 26.24
     },
     "Delaware": {
-      "inflow": 4417.253775848,
-      "outflow": 1624.438155261,
-      "netFlow": 2792.815620586,
-      "pctSearchingIn": 65.01,
-      "pctSearchingOut": 40.59
+      "inflow": 4759.557076494,
+      "outflow": 1572.81863929,
+      "netFlow": 3186.738437204,
+      "pctSearchingIn": 64.85,
+      "pctSearchingOut": 37.87
     },
     "Florida": {
-      "inflow": 81534.039579062,
-      "outflow": 34922.416570366,
-      "netFlow": 46611.623008696,
-      "pctSearchingIn": 28.07,
-      "pctSearchingOut": 14.32
+      "inflow": 71717.794652091,
+      "outflow": 32796.083461503,
+      "netFlow": 38921.711190588,
+      "pctSearchingIn": 28.36,
+      "pctSearchingOut": 15.33
     },
     "Georgia": {
-      "inflow": 18738.974296183,
-      "outflow": 16295.707588239,
-      "netFlow": 2443.266707944,
-      "pctSearchingIn": 18.87,
-      "pctSearchingOut": 16.83
+      "inflow": 17438.01440777,
+      "outflow": 15758.180522821,
+      "netFlow": 1679.833884949,
+      "pctSearchingIn": 19.55,
+      "pctSearchingOut": 18.01
     },
     "Hawaii": {
-      "inflow": 10613.422093531,
-      "outflow": 6154.194217285,
-      "netFlow": 4459.227876247,
-      "pctSearchingIn": 34.17,
-      "pctSearchingOut": 23.14
+      "inflow": 9246.16113284,
+      "outflow": 6029.049493892,
+      "netFlow": 3217.111638948,
+      "pctSearchingIn": 32.62,
+      "pctSearchingOut": 23.99
     },
     "Idaho": {
-      "inflow": 10650.984397049,
-      "outflow": 2348.863947999,
-      "netFlow": 8302.12044905,
-      "pctSearchingIn": 72.97,
-      "pctSearchingOut": 37.32
+      "inflow": 11259.902924024,
+      "outflow": 2414.144514476,
+      "netFlow": 8845.758409548,
+      "pctSearchingIn": 72.24,
+      "pctSearchingOut": 35.81
     },
     "Illinois": {
-      "inflow": 18873.925977703,
-      "outflow": 42499.685325929,
-      "netFlow": -23625.759348226,
-      "pctSearchingIn": 6.57,
-      "pctSearchingOut": 13.67
+      "inflow": 18749.358432294,
+      "outflow": 41002.624411953,
+      "netFlow": -22253.265979659,
+      "pctSearchingIn": 6.48,
+      "pctSearchingOut": 13.17
     },
     "Indiana": {
-      "inflow": 8940.536175682,
-      "outflow": 6572.807050833,
-      "netFlow": 2367.729124849,
-      "pctSearchingIn": 31.25,
-      "pctSearchingOut": 25.05
+      "inflow": 8966.983983701,
+      "outflow": 6553.643139205,
+      "netFlow": 2413.340844496,
+      "pctSearchingIn": 30.98,
+      "pctSearchingOut": 24.7
     },
     "Iowa": {
-      "inflow": 2035.182369552,
-      "outflow": 2224.920170792,
-      "netFlow": -189.737801241,
-      "pctSearchingIn": 49.78,
-      "pctSearchingOut": 52.01
+      "inflow": 2167.756076134,
+      "outflow": 2128.242290073,
+      "netFlow": 39.513786061,
+      "pctSearchingIn": 54.4,
+      "pctSearchingOut": 53.95
     },
     "Kansas": {
-      "inflow": 2370.409861508,
-      "outflow": 3198.427610458,
-      "netFlow": -828.017748949,
-      "pctSearchingIn": 40.33,
-      "pctSearchingOut": 47.7
+      "inflow": 2402.358726234,
+      "outflow": 3025.756965947,
+      "netFlow": -623.398239713,
+      "pctSearchingIn": 40.91,
+      "pctSearchingOut": 46.58
     },
     "Kentucky": {
-      "inflow": 4444.25207133,
-      "outflow": 3303.157506007,
-      "netFlow": 1141.094565323,
-      "pctSearchingIn": 35.74,
-      "pctSearchingOut": 29.25
+      "inflow": 4377.213008611,
+      "outflow": 2835.54775688,
+      "netFlow": 1541.665251731,
+      "pctSearchingIn": 39.24,
+      "pctSearchingOut": 29.5
     },
     "Louisiana": {
-      "inflow": 5953.545796581,
-      "outflow": 3188.076087823,
-      "netFlow": 2765.469708758,
-      "pctSearchingIn": 29.5,
-      "pctSearchingOut": 18.3
+      "inflow": 5381.043709574,
+      "outflow": 3055.828562267,
+      "netFlow": 2325.215147308,
+      "pctSearchingIn": 28.52,
+      "pctSearchingOut": 18.47
     },
     "Maine": {
-      "inflow": 5585.742879183,
-      "outflow": 1657.068709599,
-      "netFlow": 3928.674169584,
-      "pctSearchingIn": 60.55,
-      "pctSearchingOut": 31.28
+      "inflow": 6686.736698752,
+      "outflow": 1774.930473691,
+      "netFlow": 4911.806225061,
+      "pctSearchingIn": 59.79,
+      "pctSearchingOut": 28.3
     },
     "Maryland": {
-      "inflow": 17327.191010732,
-      "outflow": 22538.932341856,
-      "netFlow": -5211.741331124,
-      "pctSearchingIn": 16.93,
-      "pctSearchingOut": 20.96
+      "inflow": 18040.452755156,
+      "outflow": 20351.450097935,
+      "netFlow": -2310.997342779,
+      "pctSearchingIn": 17.43,
+      "pctSearchingOut": 19.23
     },
     "Massachusetts": {
-      "inflow": 9868.76929831,
-      "outflow": 21602.404879462,
-      "netFlow": -11733.635581152,
-      "pctSearchingIn": 10.64,
-      "pctSearchingOut": 20.68
+      "inflow": 11077.714527297,
+      "outflow": 21807.619253266,
+      "netFlow": -10729.904725969,
+      "pctSearchingIn": 9.91,
+      "pctSearchingOut": 17.8
     },
     "Michigan": {
-      "inflow": 9450.579571225,
-      "outflow": 9501.547341707,
-      "netFlow": -50.967770482,
-      "pctSearchingIn": 17.76,
-      "pctSearchingOut": 17.84
+      "inflow": 10785.988139696,
+      "outflow": 9849.117950756,
+      "netFlow": 936.87018894,
+      "pctSearchingIn": 17.3,
+      "pctSearchingOut": 16.04
     },
     "Minnesota": {
-      "inflow": 4719.819977302,
-      "outflow": 7567.098841199,
-      "netFlow": -2847.278863897,
-      "pctSearchingIn": 15.29,
-      "pctSearchingOut": 22.44
+      "inflow": 5054.192969135,
+      "outflow": 7447.925267138,
+      "netFlow": -2393.732298003,
+      "pctSearchingIn": 14.07,
+      "pctSearchingOut": 19.44
     },
     "Mississippi": {
-      "inflow": 3038.777360882,
-      "outflow": 1309.61207366,
-      "netFlow": 1729.165287222,
-      "pctSearchingIn": 65.38,
-      "pctSearchingOut": 44.87
+      "inflow": 2861.845166328,
+      "outflow": 1397.241860454,
+      "netFlow": 1464.603305873,
+      "pctSearchingIn": 63.53,
+      "pctSearchingOut": 45.96
     },
     "Missouri": {
-      "inflow": 6889.752232306,
-      "outflow": 5609.942814504,
-      "netFlow": 1279.809417802,
-      "pctSearchingIn": 30.29,
-      "pctSearchingOut": 26.13
+      "inflow": 7016.792615832,
+      "outflow": 5559.688133817,
+      "netFlow": 1457.104482016,
+      "pctSearchingIn": 29.1,
+      "pctSearchingOut": 24.54
     },
     "Montana": {
-      "inflow": 3213.482609301,
-      "outflow": 1167.678671548,
-      "netFlow": 2045.803937753,
-      "pctSearchingIn": 81.46,
-      "pctSearchingOut": 61.49
+      "inflow": 3530.311737258,
+      "outflow": 1288.20205936,
+      "netFlow": 2242.109677899,
+      "pctSearchingIn": 80.76,
+      "pctSearchingOut": 60.51
     },
     "Nebraska": {
-      "inflow": 1257.254693052,
-      "outflow": 1371.294866871,
-      "netFlow": -114.040173819,
-      "pctSearchingIn": 34.52,
-      "pctSearchingOut": 36.51
+      "inflow": 1258.355599432,
+      "outflow": 1423.873470551,
+      "netFlow": -165.517871119,
+      "pctSearchingIn": 34.25,
+      "pctSearchingOut": 37.08
     },
     "Nevada": {
-      "inflow": 19617.729680263,
-      "outflow": 9498.64516097,
-      "netFlow": 10119.084519293,
-      "pctSearchingIn": 41.32,
-      "pctSearchingOut": 25.43
+      "inflow": 18540.981973862,
+      "outflow": 9623.369439646,
+      "netFlow": 8917.612534216,
+      "pctSearchingIn": 41.86,
+      "pctSearchingOut": 27.21
     },
     "New Hampshire": {
-      "inflow": 5613.079505282,
-      "outflow": 2559.81224294,
-      "netFlow": 3053.267262341,
-      "pctSearchingIn": 59.98,
-      "pctSearchingOut": 40.6
+      "inflow": 7035.534550695,
+      "outflow": 2602.557677733,
+      "netFlow": 4432.976872963,
+      "pctSearchingIn": 60.26,
+      "pctSearchingOut": 35.94
     },
     "New Jersey": {
-      "inflow": 15048.316818389,
-      "outflow": 13088.23482847,
-      "netFlow": 1960.081989919,
-      "pctSearchingIn": 29.87,
-      "pctSearchingOut": 27.03
+      "inflow": 15815.723976327,
+      "outflow": 12570.593124875,
+      "netFlow": 3245.130851452,
+      "pctSearchingIn": 28.54,
+      "pctSearchingOut": 24.09
     },
     "New Mexico": {
-      "inflow": 3421.093011486,
-      "outflow": 1985.023741815,
-      "netFlow": 1436.06926967,
-      "pctSearchingIn": 53.63,
-      "pctSearchingOut": 40.16
+      "inflow": 3438.259092492,
+      "outflow": 2101.376304981,
+      "netFlow": 1336.882787511,
+      "pctSearchingIn": 53.18,
+      "pctSearchingOut": 40.98
     },
     "New York": {
-      "inflow": 14527.83645759,
-      "outflow": 44400.008128923,
-      "netFlow": -29872.171671333,
-      "pctSearchingIn": 13.19,
-      "pctSearchingOut": 31.7
+      "inflow": 15101.177661837,
+      "outflow": 44939.595490858,
+      "netFlow": -29838.417829021,
+      "pctSearchingIn": 12.2,
+      "pctSearchingOut": 29.25
     },
     "North Carolina": {
-      "inflow": 22871.753550222,
-      "outflow": 16407.521727983,
-      "netFlow": 6464.231822238,
-      "pctSearchingIn": 26.08,
-      "pctSearchingOut": 20.2
+      "inflow": 23361.21052151,
+      "outflow": 15947.517659461,
+      "netFlow": 7413.692862049,
+      "pctSearchingIn": 26.78,
+      "pctSearchingOut": 19.98
     },
     "North Dakota": {
-      "inflow": 326.744796567,
-      "outflow": 523.46520574,
-      "netFlow": -196.720409173,
-      "pctSearchingIn": 66.51,
-      "pctSearchingOut": 76.09
+      "inflow": 380.407382349,
+      "outflow": 483.245875723,
+      "netFlow": -102.838493374,
+      "pctSearchingIn": 66.02,
+      "pctSearchingOut": 71.17
     },
     "Ohio": {
-      "inflow": 8883.829336987,
-      "outflow": 11401.049828777,
-      "netFlow": -2517.22049179,
-      "pctSearchingIn": 15.09,
-      "pctSearchingOut": 18.57
+      "inflow": 9030.443395613,
+      "outflow": 11148.256967333,
+      "netFlow": -2117.81357172,
+      "pctSearchingIn": 14.27,
+      "pctSearchingOut": 17.04
     },
     "Oklahoma": {
-      "inflow": 4471.362176396,
-      "outflow": 3055.927368453,
-      "netFlow": 1415.434807943,
-      "pctSearchingIn": 33.11,
-      "pctSearchingOut": 25.28
+      "inflow": 4188.878188897,
+      "outflow": 3014.122352007,
+      "netFlow": 1174.755836891,
+      "pctSearchingIn": 32.38,
+      "pctSearchingOut": 25.63
     },
     "Oregon": {
-      "inflow": 18936.527152937,
-      "outflow": 16840.060335606,
-      "netFlow": 2096.466817331,
-      "pctSearchingIn": 20.52,
-      "pctSearchingOut": 18.67
+      "inflow": 19820.950453222,
+      "outflow": 16106.396217477,
+      "netFlow": 3714.554235745,
+      "pctSearchingIn": 20.66,
+      "pctSearchingOut": 17.47
     },
     "Pennsylvania": {
-      "inflow": 16499.390839948,
-      "outflow": 18939.867175602,
-      "netFlow": -2440.476335654,
-      "pctSearchingIn": 17.8,
-      "pctSearchingOut": 19.91
+      "inflow": 17711.594367826,
+      "outflow": 18592.557393446,
+      "netFlow": -880.96302562,
+      "pctSearchingIn": 17.81,
+      "pctSearchingOut": 18.54
     },
     "Rhode Island": {
-      "inflow": 2230.584736434,
-      "outflow": 1725.040000571,
-      "netFlow": 505.544735863,
-      "pctSearchingIn": 49.83,
-      "pctSearchingOut": 43.44
+      "inflow": 2548.905887015,
+      "outflow": 1707.626862192,
+      "netFlow": 841.279024823,
+      "pctSearchingIn": 50.93,
+      "pctSearchingOut": 41.02
     },
     "South Carolina": {
-      "inflow": 18716.027107963,
-      "outflow": 4858.776437581,
-      "netFlow": 13857.250670382,
-      "pctSearchingIn": 63.6,
-      "pctSearchingOut": 31.21
+      "inflow": 18235.78231517,
+      "outflow": 4471.943398817,
+      "netFlow": 13763.838916353,
+      "pctSearchingIn": 64.73,
+      "pctSearchingOut": 31.04
     },
     "South Dakota": {
-      "inflow": 780.768253751,
-      "outflow": 515.069102997,
-      "netFlow": 265.699150754,
-      "pctSearchingIn": 70.36,
-      "pctSearchingOut": 61.03
+      "inflow": 721.376089189,
+      "outflow": 545.593471617,
+      "netFlow": 175.782617572,
+      "pctSearchingIn": 67.18,
+      "pctSearchingOut": 60.76
     },
     "Tennessee": {
-      "inflow": 19585.774662545,
-      "outflow": 9395.162710762,
-      "netFlow": 10190.611951783,
-      "pctSearchingIn": 33.89,
-      "pctSearchingOut": 19.74
+      "inflow": 18982.934887626,
+      "outflow": 9111.019710818,
+      "netFlow": 9871.915176808,
+      "pctSearchingIn": 33.81,
+      "pctSearchingOut": 19.69
     },
     "Texas": {
-      "inflow": 43365.294390036,
-      "outflow": 33293.634421897,
-      "netFlow": 10071.659968139,
-      "pctSearchingIn": 17.37,
-      "pctSearchingOut": 13.9
+      "inflow": 40242.352989088,
+      "outflow": 33936.708228557,
+      "netFlow": 6305.644760531,
+      "pctSearchingIn": 16.32,
+      "pctSearchingOut": 14.12
     },
     "Utah": {
-      "inflow": 5409.942681679,
-      "outflow": 4857.638558983,
-      "netFlow": 552.304122696,
-      "pctSearchingIn": 27.68,
-      "pctSearchingOut": 25.57
+      "inflow": 5170.621999173,
+      "outflow": 4742.241989263,
+      "netFlow": 428.38000991,
+      "pctSearchingIn": 27.05,
+      "pctSearchingOut": 25.38
     },
     "Vermont": {
-      "inflow": 2010.311798848,
-      "outflow": 921.932246922,
-      "netFlow": 1088.379551926,
-      "pctSearchingIn": 66.16,
-      "pctSearchingOut": 47.28
+      "inflow": 2044.1387657,
+      "outflow": 940.100579392,
+      "netFlow": 1104.038186308,
+      "pctSearchingIn": 59.91,
+      "pctSearchingOut": 40.73
     },
     "Virginia": {
-      "inflow": 19432.248713693,
-      "outflow": 28691.395382001,
-      "netFlow": -9259.146668308,
-      "pctSearchingIn": 21.6,
-      "pctSearchingOut": 28.91
+      "inflow": 19311.67585259,
+      "outflow": 26517.062113193,
+      "netFlow": -7205.386260603,
+      "pctSearchingIn": 20.82,
+      "pctSearchingOut": 26.52
     },
     "Washington": {
-      "inflow": 30728.408886309,
-      "outflow": 53385.156127856,
-      "netFlow": -22656.747241547,
-      "pctSearchingIn": 9.53,
-      "pctSearchingOut": 15.47
+      "inflow": 32714.844863827,
+      "outflow": 49805.924504076,
+      "netFlow": -17091.079640248,
+      "pctSearchingIn": 8.99,
+      "pctSearchingOut": 13.07
     },
     "West Virginia": {
-      "inflow": 2777.813328069,
-      "outflow": 1287.183286758,
-      "netFlow": 1490.630041311,
-      "pctSearchingIn": 77.93,
-      "pctSearchingOut": 62.06
+      "inflow": 2718.063576275,
+      "outflow": 1287.920861756,
+      "netFlow": 1430.142714519,
+      "pctSearchingIn": 75.9,
+      "pctSearchingOut": 59.88
     },
     "Wisconsin": {
-      "inflow": 8673.091583597,
-      "outflow": 4893.172039558,
-      "netFlow": 3779.919544039,
-      "pctSearchingIn": 34.37,
-      "pctSearchingOut": 22.81
+      "inflow": 9713.873209781,
+      "outflow": 5030.808379287,
+      "netFlow": 4683.064830494,
+      "pctSearchingIn": 33.69,
+      "pctSearchingOut": 20.83
     },
     "Wyoming": {
-      "inflow": 943.324155979,
-      "outflow": 597.518939739,
-      "netFlow": 345.80521624,
-      "pctSearchingIn": 85.38,
-      "pctSearchingOut": 78.72
+      "inflow": 1081.667978672,
+      "outflow": 605.855298503,
+      "netFlow": 475.81268017,
+      "pctSearchingIn": 86.27,
+      "pctSearchingOut": 77.87
     }
   }
 }
