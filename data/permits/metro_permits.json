@@ -1,411 +1,411 @@
 {
-  "period": "2026-09",
-  "fetchedAt": "2026-11-24T22:57:29",
+  "period": "2026-10",
+  "fetchedAt": "2026-11-25T22:17:14",
   "source": "Census Bureau Building Permits Survey (BPS)",
   "sourceUrls": {
-    "state": "https://www.census.gov/construction/bps/xls/statemonthly_202609.xls",
-    "msa": "https://www.census.gov/construction/bps/xls/cbsamonthly_202609.xls"
+    "state": "https://www.census.gov/construction/bps/xls/statemonthly_202610.xls",
+    "msa": "https://www.census.gov/construction/bps/xls/cbsamonthly_202610.xls"
   },
   "data": {
     "Houston, TX": {
-      "permit": 34.457,
-      "pctChg": -7
+      "permit": 37.02,
+      "pctChg": -9
     },
     "Dallas, TX": {
-      "permit": 31.037,
-      "pctChg": -3
+      "permit": 33.443,
+      "pctChg": -4
     },
     "Phoenix, AZ": {
-      "permit": 16.595,
-      "pctChg": -10
+      "permit": 18.036,
+      "pctChg": -11
     },
     "Atlanta, GA": {
-      "permit": 16.427,
-      "pctChg": -6
+      "permit": 17.714,
+      "pctChg": -10
     },
     "Austin, TX": {
-      "permit": 11.789,
+      "permit": 12.795,
       "pctChg": -1
     },
     "Tampa, FL": {
-      "permit": 10.499,
-      "pctChg": -1
-    },
-    "Orlando, FL": {
-      "permit": 10.017,
-      "pctChg": -12
+      "permit": 11.439,
+      "pctChg": -4
     },
     "Nashville, TN": {
-      "permit": 9.992,
-      "pctChg": -5
+      "permit": 11.262,
+      "pctChg": -2
+    },
+    "Orlando, FL": {
+      "permit": 11.019,
+      "pctChg": -12
     },
     "Charlotte, NC": {
-      "permit": 9.725,
-      "pctChg": -26
+      "permit": 10.87,
+      "pctChg": -24
     },
     "Los Angeles, CA": {
-      "permit": 9.688,
-      "pctChg": 1
+      "permit": 10.457,
+      "pctChg": -2
     },
     "Raleigh, NC": {
-      "permit": 9.372,
-      "pctChg": 3
+      "permit": 10.161,
+      "pctChg": 1
     },
     "North Port, FL": {
-      "permit": 7.839,
-      "pctChg": 3
+      "permit": 8.579,
+      "pctChg": -8
     },
     "Washington, DC": {
-      "permit": 7.755,
-      "pctChg": -6
+      "permit": 8.4,
+      "pctChg": -5
     },
     "Jacksonville, FL": {
-      "permit": 7.467,
-      "pctChg": -1
+      "permit": 8.372,
+      "pctChg": 2
     },
     "Chicago, IL": {
-      "permit": 7.32,
-      "pctChg": 0
+      "permit": 8.029,
+      "pctChg": -3
     },
     "New York, NY": {
-      "permit": 7.274,
-      "pctChg": -19
-    },
-    "Riverside, CA": {
-      "permit": 7.219,
-      "pctChg": -6
+      "permit": 8.0,
+      "pctChg": -20
     },
     "Indianapolis, IN": {
-      "permit": 7.145,
-      "pctChg": -1
+      "permit": 7.796,
+      "pctChg": -4
     },
     "San Antonio, TX": {
-      "permit": 7.114,
+      "permit": 7.644,
       "pctChg": 1
+    },
+    "Riverside, CA": {
+      "permit": 7.606,
+      "pctChg": -8
     },
     "Minneapolis, MN": {
-      "permit": 6.902,
-      "pctChg": 1
+      "permit": 7.518,
+      "pctChg": -1
     },
     "Boise City, ID": {
-      "permit": 6.349,
-      "pctChg": 3
+      "permit": 6.973,
+      "pctChg": 1
     },
     "Cape Coral, FL": {
-      "permit": 5.918,
+      "permit": 6.525,
       "pctChg": -27
     },
     "Denver, CO": {
-      "permit": 5.809,
-      "pctChg": -2
-    },
-    "Sacramento, CA": {
-      "permit": 5.703,
-      "pctChg": -7
-    },
-    "Greenville, SC": {
-      "permit": 5.635,
-      "pctChg": -1
-    },
-    "Oklahoma City, OK": {
-      "permit": 5.48,
-      "pctChg": 11
-    },
-    "Wilmington, NC": {
-      "permit": 5.372,
-      "pctChg": 7
-    },
-    "Las Vegas, NV": {
-      "permit": 5.337,
-      "pctChg": -27
-    },
-    "Lakeland, FL": {
-      "permit": 5.217,
-      "pctChg": -1
-    },
-    "Miami, FL": {
-      "permit": 4.982,
-      "pctChg": 22
-    },
-    "Philadelphia, PA": {
-      "permit": 4.933,
-      "pctChg": -16
-    },
-    "Myrtle Beach, SC": {
-      "permit": 4.913,
-      "pctChg": -4
-    },
-    "Charleston, SC": {
-      "permit": 4.786,
-      "pctChg": 7
-    },
-    "Seattle, WA": {
-      "permit": 4.687,
-      "pctChg": -2
-    },
-    "Columbus, OH": {
-      "permit": 4.489,
-      "pctChg": 12
-    },
-    "Kansas City, MO": {
-      "permit": 4.439,
-      "pctChg": 15
-    },
-    "Ocala, FL": {
-      "permit": 4.384,
-      "pctChg": 0
-    },
-    "Portland, OR": {
-      "permit": 4.292,
-      "pctChg": -8
-    },
-    "Fayetteville, AR": {
-      "permit": 4.014,
-      "pctChg": -11
-    },
-    "Knoxville, TN": {
-      "permit": 3.638,
-      "pctChg": -3
-    },
-    "Spartanburg, SC": {
-      "permit": 3.582,
-      "pctChg": 14
-    },
-    "Columbia, SC": {
-      "permit": 3.574,
+      "permit": 6.259,
       "pctChg": -5
     },
-    "Detroit, MI": {
-      "permit": 3.543,
+    "Sacramento, CA": {
+      "permit": 6.182,
+      "pctChg": -8
+    },
+    "Greenville, SC": {
+      "permit": 6.104,
+      "pctChg": -3
+    },
+    "Oklahoma City, OK": {
+      "permit": 6.053,
+      "pctChg": 9
+    },
+    "Wilmington, NC": {
+      "permit": 5.906,
+      "pctChg": 7
+    },
+    "Lakeland, FL": {
+      "permit": 5.699,
+      "pctChg": -1
+    },
+    "Las Vegas, NV": {
+      "permit": 5.683,
+      "pctChg": -29
+    },
+    "Miami, FL": {
+      "permit": 5.571,
+      "pctChg": 21
+    },
+    "Philadelphia, PA": {
+      "permit": 5.422,
+      "pctChg": -19
+    },
+    "Myrtle Beach, SC": {
+      "permit": 5.347,
+      "pctChg": -5
+    },
+    "Charleston, SC": {
+      "permit": 5.32,
+      "pctChg": 8
+    },
+    "Seattle, WA": {
+      "permit": 5.189,
+      "pctChg": 0
+    },
+    "Kansas City, MO": {
+      "permit": 4.971,
+      "pctChg": 11
+    },
+    "Columbus, OH": {
+      "permit": 4.898,
+      "pctChg": 8
+    },
+    "Ocala, FL": {
+      "permit": 4.787,
+      "pctChg": -1
+    },
+    "Portland, OR": {
+      "permit": 4.619,
+      "pctChg": -11
+    },
+    "Fayetteville, AR": {
+      "permit": 4.311,
+      "pctChg": -12
+    },
+    "Knoxville, TN": {
+      "permit": 4.01,
       "pctChg": -4
     },
+    "Detroit, MI": {
+      "permit": 3.936,
+      "pctChg": -6
+    },
+    "Columbia, SC": {
+      "permit": 3.899,
+      "pctChg": -8
+    },
     "Cincinnati, OH": {
-      "permit": 3.462,
-      "pctChg": 3
+      "permit": 3.878,
+      "pctChg": 5
+    },
+    "Spartanburg, SC": {
+      "permit": 3.87,
+      "pctChg": 11
     },
     "McAllen, TX": {
-      "permit": 3.46,
-      "pctChg": -2
-    },
-    "Richmond, VA": {
-      "permit": 3.445,
+      "permit": 3.82,
       "pctChg": -3
     },
     "Port St. Lucie, FL": {
-      "permit": 3.417,
-      "pctChg": -1
-    },
-    "Winston, NC": {
-      "permit": 3.328,
-      "pctChg": -1
-    },
-    "Provo, UT": {
-      "permit": 3.318,
-      "pctChg": -17
-    },
-    "St. Louis, MO": {
-      "permit": 3.257,
+      "permit": 3.816,
       "pctChg": 0
     },
-    "Wildwood, FL": {
-      "permit": 3.067,
-      "pctChg": 28
-    },
-    "Boston, MA": {
-      "permit": 3.056,
-      "pctChg": 1
-    },
-    "Deltona, FL": {
-      "permit": 3.037,
-      "pctChg": -7
-    },
-    "Pensacola, FL": {
-      "permit": 2.946,
-      "pctChg": 15
-    },
-    "Huntsville, AL": {
-      "permit": 2.921,
-      "pctChg": 15
-    },
-    "Omaha, NE": {
-      "permit": 2.908,
-      "pctChg": 16
-    },
-    "Palm Bay, FL": {
-      "permit": 2.846,
-      "pctChg": 13
-    },
-    "Tucson, AZ": {
-      "permit": 2.819,
-      "pctChg": 0
-    },
-    "Virginia Beach, VA": {
-      "permit": 2.775,
-      "pctChg": 14
-    },
-    "Seaford, DE": {
-      "permit": 2.679,
-      "pctChg": 4
-    },
-    "Louisville, KY": {
-      "permit": 2.675,
+    "Richmond, VA": {
+      "permit": 3.768,
       "pctChg": -4
     },
-    "Augusta, GA": {
-      "permit": 2.636,
-      "pctChg": -8
+    "Winston, NC": {
+      "permit": 3.701,
+      "pctChg": -1
     },
-    "Durham, NC": {
-      "permit": 2.543,
-      "pctChg": -20
-    },
-    "Punta Gorda, FL": {
-      "permit": 2.523,
-      "pctChg": 24
-    },
-    "Des Moines, IA": {
-      "permit": 2.431,
-      "pctChg": -5
-    },
-    "Memphis, TN": {
-      "permit": 2.414,
-      "pctChg": -2
-    },
-    "Pittsburgh, PA": {
-      "permit": 2.414,
-      "pctChg": -11
-    },
-    "Tulsa, OK": {
-      "permit": 2.414,
-      "pctChg": -16
-    },
-    "San Diego, CA": {
-      "permit": 2.405,
-      "pctChg": -8
-    },
-    "Birmingham, AL": {
-      "permit": 2.352,
-      "pctChg": -5
-    },
-    "Daphne, AL": {
-      "permit": 2.342,
-      "pctChg": 20
-    },
-    "Gulfport, MS": {
-      "permit": 2.323,
-      "pctChg": 10
-    },
-    "Crestview, FL": {
-      "permit": 2.304,
-      "pctChg": 28
-    },
-    "Salt Lake City, UT": {
-      "permit": 2.22,
+    "St. Louis, MO": {
+      "permit": 3.628,
       "pctChg": 1
     },
-    "San Francisco, CA": {
-      "permit": 2.195,
-      "pctChg": 7
+    "Provo, UT": {
+      "permit": 3.544,
+      "pctChg": -23
     },
-    "Hickory, NC": {
-      "permit": 2.173,
-      "pctChg": 19
+    "Boston, MA": {
+      "permit": 3.395,
+      "pctChg": -2
     },
-    "Cleveland, OH": {
-      "permit": 2.154,
-      "pctChg": 5
+    "Wildwood, FL": {
+      "permit": 3.358,
+      "pctChg": 25
     },
-    "Colorado Springs, CO": {
-      "permit": 2.143,
-      "pctChg": -3
+    "Deltona, FL": {
+      "permit": 3.297,
+      "pctChg": -6
     },
-    "Baltimore, MD": {
-      "permit": 2.135,
-      "pctChg": -20
+    "Huntsville, AL": {
+      "permit": 3.195,
+      "pctChg": 12
     },
-    "Killeen, TX": {
-      "permit": 2.13,
-      "pctChg": 9
-    },
-    "Chattanooga, TN": {
-      "permit": 2.104,
-      "pctChg": 22
-    },
-    "Baton Rouge, LA": {
-      "permit": 2.095,
-      "pctChg": -3
-    },
-    "Hilton Head Island, SC": {
-      "permit": 2.016,
+    "Omaha, NE": {
+      "permit": 3.164,
       "pctChg": 8
     },
-    "Bakersfield, CA": {
-      "permit": 1.986,
-      "pctChg": -11
+    "Palm Bay, FL": {
+      "permit": 3.159,
+      "pctChg": 10
     },
-    "Greensboro, NC": {
-      "permit": 1.94,
+    "Pensacola, FL": {
+      "permit": 3.118,
+      "pctChg": 10
+    },
+    "Tucson, AZ": {
+      "permit": 3.1,
+      "pctChg": -1
+    },
+    "Virginia Beach, VA": {
+      "permit": 3.0,
+      "pctChg": 13
+    },
+    "Seaford, DE": {
+      "permit": 2.999,
+      "pctChg": 6
+    },
+    "Louisville, KY": {
+      "permit": 2.94,
+      "pctChg": -5
+    },
+    "Augusta, GA": {
+      "permit": 2.903,
+      "pctChg": -6
+    },
+    "Durham, NC": {
+      "permit": 2.87,
+      "pctChg": -16
+    },
+    "Punta Gorda, FL": {
+      "permit": 2.79,
+      "pctChg": 26
+    },
+    "Des Moines, IA": {
+      "permit": 2.698,
       "pctChg": -8
     },
+    "Tulsa, OK": {
+      "permit": 2.698,
+      "pctChg": -15
+    },
+    "San Diego, CA": {
+      "permit": 2.68,
+      "pctChg": -9
+    },
+    "Pittsburgh, PA": {
+      "permit": 2.641,
+      "pctChg": -12
+    },
+    "Memphis, TN": {
+      "permit": 2.627,
+      "pctChg": 1
+    },
+    "Birmingham, AL": {
+      "permit": 2.616,
+      "pctChg": -3
+    },
+    "Crestview, FL": {
+      "permit": 2.584,
+      "pctChg": 26
+    },
+    "Daphne, AL": {
+      "permit": 2.543,
+      "pctChg": 22
+    },
+    "Gulfport, MS": {
+      "permit": 2.526,
+      "pctChg": 9
+    },
+    "Salt Lake City, UT": {
+      "permit": 2.452,
+      "pctChg": -3
+    },
+    "San Francisco, CA": {
+      "permit": 2.386,
+      "pctChg": 2
+    },
+    "Hickory, NC": {
+      "permit": 2.382,
+      "pctChg": 18
+    },
+    "Cleveland, OH": {
+      "permit": 2.35,
+      "pctChg": 2
+    },
+    "Killeen, TX": {
+      "permit": 2.317,
+      "pctChg": 9
+    },
+    "Baton Rouge, LA": {
+      "permit": 2.31,
+      "pctChg": -2
+    },
+    "Chattanooga, TN": {
+      "permit": 2.303,
+      "pctChg": 19
+    },
+    "Colorado Springs, CO": {
+      "permit": 2.301,
+      "pctChg": -7
+    },
+    "Baltimore, MD": {
+      "permit": 2.289,
+      "pctChg": -25
+    },
+    "Bakersfield, CA": {
+      "permit": 2.17,
+      "pctChg": -11
+    },
+    "Hilton Head Island, SC": {
+      "permit": 2.17,
+      "pctChg": 8
+    },
+    "Greensboro, NC": {
+      "permit": 2.128,
+      "pctChg": -7
+    },
     "Stockton, CA": {
-      "permit": 1.894,
+      "permit": 2.068,
       "pctChg": -6
     },
     "Grand Rapids, MI": {
-      "permit": 1.857,
-      "pctChg": -10
-    },
-    "Fresno, CA": {
-      "permit": 1.774,
-      "pctChg": -27
+      "permit": 2.067,
+      "pctChg": -9
     },
     "Greeley, CO": {
-      "permit": 1.774,
-      "pctChg": -13
+      "permit": 1.93,
+      "pctChg": 10
+    },
+    "Fresno, CA": {
+      "permit": 1.914,
+      "pctChg": -29
     },
     "St. George, UT": {
-      "permit": 1.75,
+      "permit": 1.901,
       "pctChg": -5
     },
     "Savannah, GA": {
-      "permit": 1.742,
-      "pctChg": -30
-    },
-    "Little Rock, AR": {
-      "permit": 1.681,
-      "pctChg": -17
+      "permit": 1.868,
+      "pctChg": -31
     },
     "San Jose, CA": {
-      "permit": 1.671,
-      "pctChg": 0
-    },
-    "Naples, FL": {
-      "permit": 1.644,
+      "permit": 1.849,
       "pctChg": 1
     },
-    "Albuquerque, NM": {
-      "permit": 1.631,
-      "pctChg": 13
+    "Little Rock, AR": {
+      "permit": 1.818,
+      "pctChg": -17
     },
-    "Lafayette, LA": {
-      "permit": 1.623,
-      "pctChg": -3
-    },
-    "Lubbock, TX": {
-      "permit": 1.604,
-      "pctChg": 2
+    "Naples, FL": {
+      "permit": 1.807,
+      "pctChg": 6
     },
     "Visalia, CA": {
-      "permit": 1.564,
-      "pctChg": 25
+      "permit": 1.793,
+      "pctChg": 35
     },
-    "Corpus Christi, TX": {
-      "permit": 1.522,
-      "pctChg": -11
+    "Albuquerque, NM": {
+      "permit": 1.732,
+      "pctChg": 11
+    },
+    "Lafayette, LA": {
+      "permit": 1.722,
+      "pctChg": -5
+    },
+    "Lubbock, TX": {
+      "permit": 1.722,
+      "pctChg": -2
     },
     "El Paso, TX": {
-      "permit": 1.52,
-      "pctChg": 6
+      "permit": 1.655,
+      "pctChg": 5
+    },
+    "Corpus Christi, TX": {
+      "permit": 1.652,
+      "pctChg": -11
     }
   }
 }
